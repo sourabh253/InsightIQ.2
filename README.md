@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## phase -1 
@@ -267,3 +268,7 @@ LinkedIn:
 
 GitHub:
 https://github.com/sourabh253
+=======
+# InsightIQ.2
+InsightIQ.2 is a project I built to make data analysis more interactive, dynamic, and beginner-friendly.
+>>>>>>> d746bb4dfe335ca0eb0ee1cd0af6726c7295f286
